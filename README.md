@@ -8,13 +8,15 @@
 
 <h3 align="left">Connect:</h3>
 <p align="left">
-<a href="https://leetcode.com/u/yyyashasviiiii/" style="text-decoration: none;">
+<a href="https://leetcode.com/u/yashasvi-shukla/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
-<a href="https://www.linkedin.com/in/theyashasvishukla/">
+<a href="https://www.linkedin.com/in/yashasvi-shukla-me/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:yashasvi.shukla.me@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
