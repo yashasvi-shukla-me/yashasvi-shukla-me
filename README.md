@@ -31,7 +31,7 @@
 ### :zap: GitHub Stats
 <p align="center">
     <br>
-    <img align="center" width="55%" src="https://github-readme-streak-stats-eight.vercel.app/?user=yyyashasviiiii&theme=tokyonight" />
+    <img align="center" width="55%" src="https://github-readme-streak-stats-eight.vercel.app/?user=yashasvi-shukla-me&theme=tokyonight" />
     <br><br>
   </a>
 </p>
