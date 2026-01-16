@@ -26,7 +26,6 @@
     <img src="https://skillicons.dev/icons?i=py,aws,react,nextjs,javascript,cpp" />
   </a>
 </p>
-
 <hr>
 
 ### :zap: GitHub Stats
@@ -36,4 +35,3 @@
     <br><br>
   </a>
 </p>
-
