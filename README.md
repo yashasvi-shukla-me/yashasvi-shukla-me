@@ -1,32 +1,29 @@
-<!-- <img alt="header" src="https://github.com/user-attachments/assets/912d37ed-4ff5-4d92-86ca-6c36b70d752e"> -->
 <img alt="header" src="banner.jpeg">
 
 <h3 align="center">A Web Developer with Python toppings!!</h3>
 
-<!-- <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=yyyashasviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-shukla" />
-</p> -->
+## 🐊 About Me 
 
-<h3 align="left">Connect:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/yashasvi-shukla/" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
-<a href="https://www.linkedin.com/in/yashasvi-shukla-me/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yashasvi.shukla.me@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+I am a Full Stack Developer focused on building scalable, production ready web and AI systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,react,nextjs,javascript,cpp" />
-  </a>
-</p>
-<hr>
+I design, develop, and deploy end-to-end applications, from frontend interfaces to backend APIs, databases, and cloud infrastructure. Currently focused on high performance systems, real world AI integrations and solving problems at scale.
+
+- Strong in Data Structures and Algorithms
+- Full stack engineering with modern web technologies
+- Applied Machine Learning and NLP systems
+- Cloud deployments and system design
+
+
+## 🛡️ Profiles 
+
+
+- LeetCode: https://leetcode.com/u/yashasvi-shukla
+- Codeforces : https://codeforces.com/profile/yyyashasviiiii
+- HackerRank: https://www.hackerrank.com/profile/yashasvi_shukla
+- LinkedIn: https://www.linkedin.com/in/yashasvi-shukla-me
+- Portfolio: https://portfolio-yashasvishukla.netlify.app
+- Email: yashasvi.shukla.me@gmail.com
+
 
 ### :zap: GitHub Stats
 <p align="center">
@@ -35,3 +32,5 @@
     <br><br>
   </a>
 </p>
+
+
