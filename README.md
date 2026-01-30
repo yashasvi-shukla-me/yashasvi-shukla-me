@@ -3,7 +3,7 @@
 <img width="1469" height="642" alt="Screenshot 2026-01-30 at 5 53 11 PM" src="https://github.com/user-attachments/assets/efa4b7a4-9151-419c-9deb-fcf643c659f6" />
 
 
-<h3 align="center">A Web Developer with Python toppings!!</h3>
+<h3 align="center">Full Stack Engineer building scalable systems and AI</h3>
 
 
 
