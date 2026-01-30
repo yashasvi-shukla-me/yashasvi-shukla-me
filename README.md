@@ -1,8 +1,13 @@
-<img alt="header" src="banner.jpeg">
+<!-- <img alt="header" src="banner.jpeg"> -->
+
+<img width="1469" height="642" alt="Screenshot 2026-01-30 at 5 53 11 PM" src="https://github.com/user-attachments/assets/efa4b7a4-9151-419c-9deb-fcf643c659f6" />
+
 
 <h3 align="center">A Web Developer with Python toppings!!</h3>
 
-## 🐊 About Me 
+
+
+## About Me 
 
 I am a Full Stack Developer focused on building scalable, production ready web and AI systems.
 
@@ -14,15 +19,17 @@ I design, develop, and deploy end-to-end applications, from frontend interfaces 
 - Cloud deployments and system design
 
 
-## 🛡️ Profiles 
+## Profiles 
 
+
+- Portfolio: https://portfolio-yashasvishukla.netlify.app 🐦‍🔥
+- Email: yashasvi.shukla.me@gmail.com
+<br>
 
 - LeetCode: https://leetcode.com/u/yashasvi-shukla
 - Codeforces : https://codeforces.com/profile/yyyashasviiiii
 - HackerRank: https://www.hackerrank.com/profile/yashasvi_shukla
 - LinkedIn: https://www.linkedin.com/in/yashasvi-shukla-me
-- Portfolio: https://portfolio-yashasvishukla.netlify.app
-- Email: yashasvi.shukla.me@gmail.com
 
 
 ### :zap: GitHub Stats
@@ -32,5 +39,4 @@ I design, develop, and deploy end-to-end applications, from frontend interfaces 
     <br><br>
   </a>
 </p>
-
 
