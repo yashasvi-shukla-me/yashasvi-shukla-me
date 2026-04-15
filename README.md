@@ -18,7 +18,7 @@ I work across the stack designing APIs, backend services, and data pipelines, an
 
 ## Profiles
 
-Portfolio: https://portfolio-yashasvishukla.netlify.app  
+Portfolio: https://yashasvi-shukla.netlify.app 
 LinkedIn: https://www.linkedin.com/in/yashasvi-shukla-me  
 
 LeetCode: https://leetcode.com/u/yashasvi-shukla  
