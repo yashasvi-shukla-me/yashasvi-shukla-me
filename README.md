@@ -8,11 +8,6 @@ Full-stack engineer with a backend and machine learning focus, building distribu
 
 I work across the stack designing APIs, backend services, and data pipelines, and deploying containerized applications on cloud infrastructure. Recent work includes distributed code execution systems, resume intelligence platforms, and MLOps pipelines for model training and deployment.
 
-**Key areas:**
-- Distributed backend systems and APIs  
-- Secure containerized execution and system design  
-- Applied ML, NLP, and retrieval-augmented generation (RAG)  
-- MLOps workflows for experiment tracking and deployment  
 
 ---
 
