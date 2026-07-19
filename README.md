@@ -6,7 +6,7 @@
 
 <strong>Full-Stack Engineer building scalable systems and AI/ML platforms.</strong>
 
-I work across the stack designing APIs, backend services, and data pipelines, and deploying containerized applications on cloud infrastructure. Recent work includes distributed code execution systems, resume intelligence platforms, and MLOps pipelines for model training and deployment.
+I work across the stack designing APIs, backend services, data pipelines, and deploying applications on cloud infrastructure. Recent work includes litigation & law system, resource management system, distributed code execution systems, resume intelligence platforms, model training and deployment.
 
 
 ---
