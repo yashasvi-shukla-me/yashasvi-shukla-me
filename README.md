@@ -1,4 +1,4 @@
-<img width="1469" height="642" alt="banner" src="https://github.com/user-attachments/assets/efa4b7a4-9151-419c-9deb-fcf643c659f6" />
+<!-- <img width="1469" height="642" alt="banner" src="https://github.com/user-attachments/assets/efa4b7a4-9151-419c-9deb-fcf643c659f6" /> -->
 
 <h3 align="center">Full-Stack Engineer building scalable systems and AI/ML platforms</h3>
 
