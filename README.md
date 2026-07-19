@@ -1,12 +1,10 @@
 <!-- <img width="1469" height="642" alt="banner" src="https://github.com/user-attachments/assets/efa4b7a4-9151-419c-9deb-fcf643c659f6" /> -->
 
-<br>
+<!-- <h3 align="center">Full-Stack Engineer building scalable systems and AI/ML platforms</h3> -->
 
-<h3 align="center">Full-Stack Engineer building scalable systems and AI/ML platforms</h3>
+## About 
 
-## About
-
-Full-stack engineer with a backend and machine learning focus, building distributed systems, and production-oriented ML platforms.
+<strong>Full-Stack Engineer building scalable systems and AI/ML platforms.</strong>
 
 I work across the stack designing APIs, backend services, and data pipelines, and deploying containerized applications on cloud infrastructure. Recent work includes distributed code execution systems, resume intelligence platforms, and MLOps pipelines for model training and deployment.
 
